@@ -65,6 +65,6 @@
 
   * Richiesta planning per realizzazione portale
 
-## v0.0.0
+## v0.0.0 / 1989
 
   * Nasce [Vinci Production](http://www.vincihq.com)
