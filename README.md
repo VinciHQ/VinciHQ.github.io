@@ -4,13 +4,25 @@
 
 ### Correzioni di sviluppo
 
+### Dati mancanti
+
+  * Audio videopresentazione
+  * Foto recenti
+  * Lista Clienti di rilievo
+
 ### Miglioramenti del sito
 
 ### Miglioramenti minori
 
 ### Terminare
 
+  * Aggiungere audio a videopresentazione nella testata
   * Conversione animazione in flash in video per YouTube
+
+## v0.2.9 / 2017-01-21
+
+  * Aggiunta videopresentazione nella testata
+  * Aggiunta pagina Azienda
 
 ## v0.2.8 / 2017-01-18
 
