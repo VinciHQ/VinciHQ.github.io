@@ -8,6 +8,7 @@
 
   * Audio videopresentazione
   * Foto recenti
+  * Indirizzo definitivo per richiesta scheda attività su Google
   * Lista Clienti di rilievo
 
 ### Miglioramenti del sito
