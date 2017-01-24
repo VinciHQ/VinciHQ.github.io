@@ -2,6 +2,8 @@
 
 ### Correzioni di bug
 
+  * Videopresentazione nella testata non visualizzata da mobile
+
 ### Correzioni di sviluppo
 
 ### Dati mancanti
@@ -20,9 +22,21 @@
   * Aggiungere audio a videopresentazione nella testata
   * Conversione animazione in flash in video per YouTube
 
+## v0.3.1 / 2017-01-24
+
+  * Sotto la pagina Impianti
+    * Aggiunta pagina Dati & Telefonia
+    * Aggiunta pagina Fotovoltaici & Eolici
+    * Aggiunta pagina Rilevazione incendio
+
+## v0.3.0 / 2017-01-23
+
+  * Aggiunta pagina Impianti
+    * Aggiunta pagina Allarme
+    * Aggiunta pagina Videosorveglianza
+
 ## v0.2.9 / 2017-01-21
 
-  * Aggiunta videopresentazione nella testata
   * Aggiunta pagina Azienda
 
 ## v0.2.8 / 2017-01-18
